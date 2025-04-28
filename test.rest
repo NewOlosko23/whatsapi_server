@@ -50,7 +50,7 @@ Content-Type: application/json
 
 {
     "userId":"680f518a662982fc8561d8aa",
-    "phone":"254799590712",
+    "phone":"254799590711",
     "message":"Test for whatsapi today 28th"
 }
 
